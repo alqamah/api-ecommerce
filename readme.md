@@ -1,1 +1,1 @@
-https://my-json-server.typicode.com/alqamah/ecommerce-mock-api
+https://my-json-server.typicode.com/alqamah/api-ecommerce
