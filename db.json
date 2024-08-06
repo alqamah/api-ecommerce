@@ -1,0 +1,20 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Red Seat",
+      "price": 4000,
+      "description": "This is a well designed and crafted product that will suit many needs, in terms of quality, craftsmanship and aesthetics.",
+      "rating": 3,
+      "image": "link_to_image"
+    },
+    {
+      "id": 2,
+      "name": "Office Seat",
+      "price": 19999,
+      "description": "This is a well designed and crafted product that will suit many needs, in terms of quality, craftsmanship and aesthetics.",
+      "rating": 4,
+      "image": "link_to_image"
+    }
+  ]
+}
